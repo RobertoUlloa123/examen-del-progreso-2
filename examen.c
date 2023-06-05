@@ -7,7 +7,7 @@ int main()
     float promedio;
     int nota;
     int i, j;
-    alumno[i][j];
+    float nota[i][j];
     int rand();
     
     
